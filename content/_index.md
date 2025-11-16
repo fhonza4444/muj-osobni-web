@@ -45,11 +45,11 @@ Jsem také **milovník piva**, zejména toho lokálního z mé domoviny na Vala�
 <div align="right">
   S pozdravem,
 
+ **Jan Fojtík, Jr.**
   <br>
 
   <img src="/images/podpis-final.jpeg" alt="Ručně psaný podpis Jana Fojtíka Jr." style="width: 150px; height: auto; margin-top: 5px;">
 
   <br>
 
-  **Jan Fojtík, Jr.**
 </div>
