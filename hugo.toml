@@ -54,7 +54,13 @@ summaryLength = 0
     url = "/#kontakt"
     weight = 40
 
-# -- POVOLENÍ HTML/OBRÁZKŮ V MARKDOWNU (Klíčové pro opravu zobrazení) --
+# Nastavení autora s novou fotkou
+[params]
+  [params.author]
+    name = "Jan Fojtík, Jr."
+    avatar = "images/profil-final.jpg" 
+
+# -- POVOLENÍ HTML (Klíčové pro fix) --
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
