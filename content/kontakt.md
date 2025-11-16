@@ -4,9 +4,9 @@ date: 2025-11-16T03:45:00+01:00
 draft: false
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 40px; margin-top: 20px;">
+<div style="display: flex; flex-wrap: nowrap; gap: 40px; margin-top: 20px;">
 
-  <div style="flex: 1 1 300px; display: flex;">
+  <div style="flex: 1 1 300px; display: flex; flex-direction: column;">
   
   <h2>Kontaktní údaje</h2>
     
@@ -19,7 +19,7 @@ draft: false
 
   </div>
 
-  <div style="flex: 1 1 350px; display: flex;">
+  <div style="flex: 1 1 350px; display: flex; flex-direction: column;">
     
   <h2>Napište mi zprávu</h2>
     
