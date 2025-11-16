@@ -15,7 +15,7 @@ layout: "landing"
 
 ## 🧑‍⚕️ Osobní Cesta a Filozofie
 
-Jmenuji se Jan Fojtík junior, je mi 23 let, pocházím z malebného Valašska a aktuálně žiji v Praze. Jsem student a **nadšenec do medicíny**, což je obor, který mě fascinuje svou složitostí a nekonečnými možnostmi poznání. Baví mě pronikat do tajů lidského těla a mysli, objevovat jejich zákonitosti a chápat, jak fungují. Medicína pro mě není jen studium – je to cesta k **hlubšímu pochopení života** jako takového.
+Jmenuji se Jan Fojtík junior, je mi 24 let, pocházím z malebného Valašska a aktuálně žiji v Praze. Jsem student a **nadšenec do medicíny**, což je obor, který mě fascinuje svou složitostí a nekonečnými možnostmi poznání. Baví mě pronikat do tajů lidského těla a mysli, objevovat jejich zákonitosti a chápat, jak fungují. Medicína pro mě není jen studium – je to cesta k **hlubšímu pochopení života** jako takového.
 
 Od mala jsem si lámal hlavu nad každodenním životem a tím, proč je právě takový, jaký je. Fascinovalo mě, jak věci fungují – od lidského těla přes přírodu až po společnost. Neustále jsem si kladl otázky o světě kolem nás a hledal odpovědi na to, co utváří naši realitu. Tato **zvědavost** mě provází dodnes a pohání mě k tomu, abych se učil nové věci a snažil se pochopit život ve formě, jakou všichni známe – jeho krásu, složitost i tajemství.
 
