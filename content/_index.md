@@ -11,7 +11,7 @@ layout: "landing"
 
 <div id="o-mne"></div>
 
-<img src="/images/profil-final.jpg" alt="Profilová fotka Jana Fojtíka Jr." style="float: left; margin-right: 20px; margin-bottom: 10px; width: 150px; height: auto; border-radius: 50%;">
+<img src="/images/profil-final.jpg" alt="Profilová fotka Jana Fojtíka Jr." style="float: left; margin-right: 20px; margin-bottom: 10px; width: 150px; height: auto; border-radius: 8px;">
 
 ## 🧑‍⚕️ Osobní Cesta a Filozofie
 
@@ -71,15 +71,17 @@ Jsem také **milovník piva**, zejména toho lokálního z mé domoviny na Vala�
   </div>
 
   <div style="flex: 1 1 350px;">
-    ### Napište mi e-mail
+    ### Napište mi zprávu
     
-<p>Nejjednodušší cesta je odeslat mi e-mail. Kliknutím na tlačítko se otevře Váš výchozí e-mailový klient (např. Outlook nebo Apple Mail) s předvyplněným kontaktem.</p>
-    
-<a href="mailto:schranka@fojtikjan.com?subject=Dotaz z webu fojtikjan.com" style="text-decoration: none;">
-<button style="background-color: #38a169; color: white; padding: 10px 15px; border: none; cursor: pointer; border-radius: 4px; margin-top: 10px; width: 100%;">
-Odeslat e-mail na schranka@fojtikjan.com
-</button>
-</a>
+<form action="https://formspree.io/f/mpwkjwrq" method="POST" style="display: flex; flex-direction: column; gap: 10px;">
+  <label for="email">Váš e-mail:</label>
+  <input type="email" id="email" name="email" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
+
+  <label for="message">Vaše zpráva:</label>
+  <textarea id="message" name="message" rows="5" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;"></textarea>
+  
+  <button type="submit" style="background-color: #38a169; color: white; padding: 10px 15px; border: none; cursor: pointer; border-radius: 4px; width: 100%; margin-top: 10px;">Odeslat zprávu</button>
+</form>
     
 <p style="margin-top: 15px;">
 Neváhejte mě kontaktovat s dotazy, názory či nabídkami spolupráce.
