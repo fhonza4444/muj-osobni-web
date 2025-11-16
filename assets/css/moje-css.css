@@ -1,0 +1,20 @@
+/* assets/css/vlastni-styly.css */
+
+/* Změníme barvu odkazů v menu */
+.header .menu-item a {
+  color: steelblue; /* modrá místo výchozí */
+  font-weight: 600; /* uděláme je trochu tučnější */
+}
+
+/* Přidáme efekt, když na odkaz najedete myší */
+.header .menu-item a:hover {
+  color: #000;             /* při najetí zčerná */
+  text-decoration: underline; /* a podtrhne se */
+}
+
+/* Můžeme zvýraznit i aktivní položku (kde se nacházíte) */
+.header .menu-item.active a {
+  color: #000;
+  font-weight: 700; /* tučnější */
+  border-bottom: 2px solid steelblue; /* s modrým podtržením */
+}

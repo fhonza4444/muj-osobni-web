@@ -7,18 +7,19 @@ draft: false
 <div style="display: flex; flex-wrap: wrap; gap: 40px; margin-top: 20px;">
 
   <div style="flex: 1 1 300px;">
-    ## Kontaktní údaje
     
-|  |  |
+    <h2>Kontaktní údaje</h2>
+    
+| Položka | Údaj |
 | :--- | :--- |
 | **Jméno** | Jan Fojtík, Jr. |
 | **E-mail** | schranka@fojtikjan.com |
 | **Telefon** | +420 777 310 055 |
 | **Adresa** | Václavské náměstí 1, Praha |
     
-<br>
+    <br>
     
-Kde mě najdete
+    <h2>Kde mě najdete</h2>
     
 <iframe src="https://maps.google.com/maps?q=Václavské%20náměstí%201,%20Praha&t=&z=15&ie=UTF8&iwloc=&output=embed" 
         width="100%" 
@@ -31,9 +32,8 @@ Kde mě najdete
   </div>
 
   <div style="flex: 1 1 350px;">
- Napište mi zprávu
     
-<p>Nejjednodušší cesta je odeslat mi e-mail. Kliknutím na tlačítko se otevře Váš výchozí e-mailový klient.</p>
+    <h2>Napište mi zprávu</h2>
     
 <form action="https://formspree.io/f/mpwkjwrq" method="POST" style="display: flex; flex-direction: column; gap: 10px;">
   <label for="email">Váš e-mail:</label>
@@ -49,6 +49,4 @@ Kde mě najdete
 Neváhejte mě kontaktovat s dotazy, názory či nabídkami spolupráce.
 </p>
   </div>
-</div>git add .
-git commit -m "Feature: Vytvoreni samostatne stranky kontakt.md."
-git push -u origin main
+</div>

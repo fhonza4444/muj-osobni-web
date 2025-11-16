@@ -55,12 +55,16 @@ summaryLength = 0
 
 # Nastavení autora s novou fotkou
 [params]
+  # TENTO ŘÁDEK PŘIDEJTE:
+  customCSS = ["css/vlastni-styly.css"]
+  
   [params.author]
     name = "Jan Fojtík, Jr."
-    avatar = "images/profil-final.jpg" 
+    avatar = "images/profil-final.jpg"
 
 # POVOLENÍ HTML/OBRÁZKŮ V MARKDOWNU
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+    
