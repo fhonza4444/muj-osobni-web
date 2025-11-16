@@ -11,11 +11,11 @@ layout: "landing"
 
 <div id="o-mne"></div>
 
-<img src="/images/profil-final.jpg" alt="Profilová fotka Jana Fojtíka Jr." style="float: left; margin-right: 20px; margin-bottom: 10px; width: 150px; height: auto; border-radius: 8px;">
+<img src="/images/profil-final.jpg" alt="Profilová fotka Jana Fojtíka Jr." style="float: left; margin-right: 20px; margin-bottom: 10px; width: 150px; height: auto; border-radius: 50%;">
 
 ## 🧑‍⚕️ Osobní Cesta a Filozofie
 
-Jmenuji se Jan Fojtík junior, je mi 24 let, pocházím z malebného Valašska a aktuálně žiji v Praze. Jsem student a **nadšenec do medicíny**, což je obor, který mě fascinuje svou složitostí a nekonečnými možnostmi poznání. Baví mě pronikat do tajů lidského těla a mysli, objevovat jejich zákonitosti a chápat, jak fungují. Medicína pro mě není jen studium – je to cesta k **hlubšímu pochopení života** jako takového.
+Jmenuji se Jan Fojtík junior, je mi 23 let, pocházím z malebného Valašska a aktuálně žiji v Praze. Jsem student a **nadšenec do medicíny**, což je obor, který mě fascinuje svou složitostí a nekonečnými možnostmi poznání. Baví mě pronikat do tajů lidského těla a mysli, objevovat jejich zákonitosti a chápat, jak fungují. Medicína pro mě není jen studium – je to cesta k **hlubšímu pochopení života** jako takového.
 
 Od mala jsem si lámal hlavu nad každodenním životem a tím, proč je právě takový, jaký je. Fascinovalo mě, jak věci fungují – od lidského těla přes přírodu až po společnost. Neustále jsem si kladl otázky o světě kolem nás a hledal odpovědi na to, co utváří naši realitu. Tato **zvědavost** mě provází dodnes a pohání mě k tomu, abych se učil nové věci a snažil se pochopit život ve formě, jakou všichni známe – jeho krásu, složitost i tajemství.
 
@@ -40,54 +40,6 @@ Ve volném čase rád **píši odborné články**, které mi umožňují sdíle
 Jsem také **milovník piva**, zejména toho lokálního z mé domoviny na Valašsku. Oceňuji jeho rozmanité chutě, tradici spojenou s jeho výrobou a jedinečnost každého regionálního pivovaru.
 
 ---
-
-<div id="kontakt"></div>
-## ✉️ Kontakt ##
-
-<div style="display: flex; flex-wrap: wrap; gap: 40px; margin-top: 20px;">
-
-  <div style="flex: 1 1 300px;">
-    ### Kontaktní údaje
-    
-|  |  |
-| :--- | :--- |
-| **Jméno** | Jan Fojtík, Jr. |
-| **E-mail** | schranka@fojtikjan.com |
-| **Telefon** | +420 777 310 055 |
-| **Adresa** | Václavské náměstí 1, Praha |
-    
-  
-    
-    ### Kde mě najdete ###
-    
-<iframe src="https://maps.google.com/maps?q=Václavské%20náměstí%201,%20Praha&t=&z=15&ie=UTF8&iwloc=&output=embed" 
-        width="100%" 
-        height="250" 
-        style="border:0; border-radius: 8px;" 
-        allowfullscreen="" 
-        loading="lazy" 
-        referrerpolicy="no-referrer-when-downgrade">
-</iframe>
-  </div>
-
-  <div style="flex: 1 1 350px;">
-    ### Napište mi zprávu ###
-    
-<form action="https://formspree.io/f/mpwkjwrq" method="POST" style="display: flex; flex-direction: column; gap: 10px;">
-  <label for="email">Váš e-mail:</label>
-  <input type="email" id="email" name="email" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
-
-  <label for="message">Vaše zpráva:</label>
-  <textarea id="message" name="message" rows="5" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;"></textarea>
-  
-  <button type="submit" style="background-color: #38a169; color: white; padding: 10px 15px; border: none; cursor: pointer; border-radius: 4px; width: 100%; margin-top: 10px;">Odeslat zprávu</button>
-</form>
-    
-<p style="margin-top: 15px;">
-Neváhejte mě kontaktovat s dotazy, názory či nabídkami spolupráce.
-</p>
-  </div>
-</div>
 
 <br>
 S pozdravem,
