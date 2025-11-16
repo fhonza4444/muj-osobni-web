@@ -11,7 +11,7 @@ layout: "landing"
 
 <div id="o-mne"></div>
 
-<img src="/images/profilovka.jpg" alt="Profilová fotka Jana Fojtíka Jr." style="float: left; margin-right: 20px; margin-bottom: 10px; width: 150px; height: auto; border-radius: 50%;">
+<img src="/images/profilovka.JPG" alt="Profilová fotka Jana Fojtíka Jr." style="float: left; margin-right: 20px; margin-bottom: 10px; width: 150px; height: auto; border-radius: 50%;">
 
 ## 🧑‍⚕️ Osobní Cesta a Filozofie
 
