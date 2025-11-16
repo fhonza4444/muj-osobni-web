@@ -15,7 +15,7 @@ layout: "landing"
 
 ## 🧑‍⚕️ Osobní Cesta a Filozofie
 
-Jmenuji se Jan Fojtík junior, je mi 23 let, pocházím z malebného Valašska a aktuálně žiji v Praze. Jsem student a **nadšenec do medicíny**, což je obor, který mě fascinuje svou složitostí a nekonečnými možnostmi poznání. Baví mě pronikat do tajů lidského těla a mysli, objevovat jejich zákonitosti a chápat, jak fungují. Medicína pro mě není jen studium – je to cesta k **hlubšímu pochopení života** jako takového.
+Jmenuji se Jan Fojtík junior, je mi 24 let, pocházím z malebného Valašska a aktuálně žiji v Praze. Jsem student a **nadšenec do medicíny**, což je obor, který mě fascinuje svou složitostí a nekonečnými možnostmi poznání. Baví mě pronikat do tajů lidského těla a mysli, objevovat jejich zákonitosti a chápat, jak fungují. Medicína pro mě není jen studium – je to cesta k **hlubšímu pochopení života** jako takového.
 
 Od mala jsem si lámal hlavu nad každodenním životem a tím, proč je právě takový, jaký je. Fascinovalo mě, jak věci fungují – od lidského těla přes přírodu až po společnost. Neustále jsem si kladl otázky o světě kolem nás a hledal odpovědi na to, co utváří naši realitu. Tato **zvědavost** mě provází dodnes a pohání mě k tomu, abych se učil nové věci a snažil se pochopit život ve formě, jakou všichni známe – jeho krásu, složitost i tajemství.
 
@@ -56,7 +56,7 @@ Jsem také **milovník piva**, zejména toho lokálního z mé domoviny na Vala�
 | **Telefon** | +420 777 310 055 |
 | **Adresa** | Václavské náměstí 1, Praha |
     
-<br>
+    <br>
     
     ### Kde mě najdete
     
@@ -73,17 +73,17 @@ Jsem také **milovník piva**, zejména toho lokálního z mé domoviny na Vala�
   <div style="flex: 1 1 350px;">
     ### Napište mi e-mail
     
-    <p>Nejjednodušší cesta je odeslat mi e-mail. Kliknutím na tlačítko se otevře Váš výchozí e-mailový klient (např. Outlook nebo Apple Mail) s předvyplněným kontaktem.</p>
+<p>Nejjednodušší cesta je odeslat mi e-mail. Kliknutím na tlačítko se otevře Váš výchozí e-mailový klient (např. Outlook nebo Apple Mail) s předvyplněným kontaktem.</p>
     
-    <a href="mailto:schranka@fojtikjan.com?subject=Dotaz z webu fojtikjan.com" style="text-decoration: none;">
-        <button style="background-color: #38a169; color: white; padding: 10px 15px; border: none; cursor: pointer; border-radius: 4px; margin-top: 10px; width: 100%;">
-            Odeslat e-mail na schranka@fojtikjan.com
-        </button>
-    </a>
+<a href="mailto:schranka@fojtikjan.com?subject=Dotaz z webu fojtikjan.com" style="text-decoration: none;">
+<button style="background-color: #38a169; color: white; padding: 10px 15px; border: none; cursor: pointer; border-radius: 4px; margin-top: 10px; width: 100%;">
+Odeslat e-mail na schranka@fojtikjan.com
+</button>
+</a>
     
-    <p style="margin-top: 15px;">
-        Neváhejte mě kontaktovat s dotazy, názory či nabídkami spolupráce.
-    </p>
+<p style="margin-top: 15px;">
+Neváhejte mě kontaktovat s dotazy, názory či nabídkami spolupráce.
+</p>
   </div>
 </div>
 
@@ -91,7 +91,7 @@ Jsem také **milovník piva**, zejména toho lokálního z mé domoviny na Vala�
 S pozdravem,
 
 <div align="left">
-  <img src="/images/podpis-final.jpeg" alt="Ručně psaný podpis Jana Fojtíka Jr." style="width: 150px; height: auto; margin-top: 5px;">
+<img src="/images/podpis-final.jpeg" alt="Ručně psaný podpis Jana Fojtíka Jr." style="width: 150px; height: auto; margin-top: 5px;">
 </div>
 
 **Jan Fojtík, Jr.**
