@@ -1,3 +1,33 @@
+# -- Site Configuration --
+# Základní nastavení webu
+baseURL = "https://fojtikjan.com/"
+title = "Jan Fojtík, Jr."
+languageCode = "cs-cz"
+theme = "congo"
+
+defaultContentLanguage = "cs"
+
+enableRobotsTXT = true
+summaryLength = 0
+
+[pagination]
+  pagerSize = 15
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[privacy]
+  [privacy.vimeo]
+    enableDNT = true
+  [privacy.x]
+    enableDNT = true
+  [privacy.youTube]
+    enableDNT = true
+
+[services]
+  [services.x]
+    disableInlineCSS = true
+
 # -- Nastavení Menu --
 [menu]
   [[menu.main]]
@@ -9,17 +39,23 @@
   [[menu.main]]
     identifier = "aktuality"
     name = "Aktuality"
-    url = "/posts/" 
+    url = "/posts/"
     weight = 20
 
   [[menu.main]]
     identifier = "o-mne"
     name = "O mně"
-    url = "/#o-mne" # Odkazuje na kotvu <div id="o-mne"></div>
+    url = "/#o-mne"
     weight = 30
 
   [[menu.main]]
     identifier = "kontakt"
     name = "Kontakt"
-    url = "/#kontakt" # Odkazuje na kotvu <div id="kontakt"></div>
+    url = "/#kontakt"
     weight = 40
+
+# -- POVOLENÍ HTML/OBRÁZKŮ V MARKDOWNU (Klíčové pro opravu zobrazení) --
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
