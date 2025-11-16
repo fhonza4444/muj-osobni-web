@@ -44,7 +44,7 @@ summaryLength = 0
   [[menu.main]]
     identifier = "o-mne"
     name = "O mně"
-    url = "/#o-mne"
+    url = "/o_mne/"
     weight = 30
 
   [[menu.main]]
