@@ -1,5 +1,4 @@
 # -- Site Configuration --
-# Základní nastavení webu
 baseURL = "https://fojtikjan.com/"
 title = "Jan Fojtík, Jr."
 languageCode = "cs-cz"
@@ -28,7 +27,7 @@ summaryLength = 0
   [services.x]
     disableInlineCSS = true
 
-# -- Nastavení Menu --
+# -- Nastavení Menu (OPRAVENO: Kontakt odkazuje na samostatnou stránku /kontakt/) --
 [menu]
   [[menu.main]]
     identifier = "home"
@@ -51,7 +50,7 @@ summaryLength = 0
   [[menu.main]]
     identifier = "kontakt"
     name = "Kontakt"
-    url = "/#kontakt"
+    url = "/kontakt/"  # <--- KLÍČOVÁ ZMĚNA: Vede na novou stránku
     weight = 40
 
 # Nastavení autora s novou fotkou
@@ -60,7 +59,7 @@ summaryLength = 0
     name = "Jan Fojtík, Jr."
     avatar = "images/profil-final.jpg" 
 
-# -- POVOLENÍ HTML (Klíčové pro fix) --
+# POVOLENÍ HTML/OBRÁZKŮ V MARKDOWNU
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
