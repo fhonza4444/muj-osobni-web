@@ -13,15 +13,15 @@ layout: "landing"
 
 <img src="/images/profil-final.jpg" alt="Profilová fotka Jana Fojtíka Jr." style="float: left; margin-right: 20px; margin-bottom: 10px; width: 150px; height: auto; border-radius: 50%;">
 
-## 🧑‍⚕️ Osobní Cesta a Filozofie
+## 🧑‍⚕️ Osobní cesta a filozofie
 
-Jmenuji se Jan Fojtík junior, je mi 23 let, pocházím z malebného Valašska a aktuálně žiji v Praze. Jsem student a **nadšenec do medicíny**, což je obor, který mě fascinuje svou složitostí a nekonečnými možnostmi poznání. Baví mě pronikat do tajů lidského těla a mysli, objevovat jejich zákonitosti a chápat, jak fungují. Medicína pro mě není jen studium – je to cesta k **hlubšímu pochopení života** jako takového.
+Jmenuji se Jan Fojtík junior, je mi 24 let, pocházím z malebného Valašska a aktuálně žiji v Praze. Jsem student a **nadšenec do medicíny**, což je obor, který mě fascinuje svou složitostí a nekonečnými možnostmi poznání. Baví mě pronikat do tajů lidského těla a mysli, objevovat jejich zákonitosti a chápat, jak fungují. Medicína pro mě není jen studium – je to cesta k **hlubšímu pochopení života** jako takového.
 
 Od mala jsem si lámal hlavu nad každodenním životem a tím, proč je právě takový, jaký je. Fascinovalo mě, jak věci fungují – od lidského těla přes přírodu až po společnost. Neustále jsem si kladl otázky o světě kolem nás a hledal odpovědi na to, co utváří naši realitu. Tato **zvědavost** mě provází dodnes a pohání mě k tomu, abych se učil nové věci a snažil se pochopit život ve formě, jakou všichni známe – jeho krásu, složitost i tajemství.
 
 ---
 
-## ✈️ Cestování, Jazyky a Doprava
+## ✈️ Cestování, jazyky a doprava
 
 **Milovník cestování** – to je další stránka mé osobnosti. Cestování mi umožňuje poznávat nové krajiny, kultury a lidi. Fascinuje mě rozdílnost světových kultur, jejich tradice, zvyky i způsob života. Každé místo na světě má svůj jedinečný příběh a já rád nasávám atmosféru těchto příběhů na vlastní kůži. Díky své vášni pro jazyky **mluvím několika světovými jazyky**, což mi otevírá dveře k hlubšímu porozumění místním lidem a jejich kulturám.
 
@@ -31,7 +31,7 @@ Pracuji pro společnost **FlixBus**, kde mám možnost spojit svou vášeň pro 
 
 ---
 
-## 📝 Věda, Volný Čas a Osobní Zájmy
+## 📝 Věda, volný Čas a osobní Zájmy
 
 **Věda je pro mě vášní**, která mě neustále pohání vpřed. Fascinuje mě její schopnost odpovídat na otázky, které si lidstvo klade už po tisíciletí, a otevírat nové obzory poznání.
 
@@ -42,10 +42,10 @@ Jsem také **milovník piva**, zejména toho lokálního z mé domoviny na Vala�
 ---
 
 <br>
-S pozdravem,
+S pozdravem
+
+**Jan Fojtík, Jr.**
 
 <div align="left">
 <img src="/images/podpis-final.jpeg" alt="Ručně psaný podpis Jana Fojtíka Jr." style="width: 150px; height: auto; margin-top: 5px;">
 </div>
-
-**Jan Fojtík, Jr.**
