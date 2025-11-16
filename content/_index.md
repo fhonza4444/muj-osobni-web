@@ -42,23 +42,23 @@ Jsem také **milovník piva**, zejména toho lokálního z mé domoviny na Vala�
 ---
 
 <div id="kontakt"></div>
-## ✉️ Kontakt
+## ✉️ Kontakt ##
 
 <div style="display: flex; flex-wrap: wrap; gap: 40px; margin-top: 20px;">
 
   <div style="flex: 1 1 300px;">
     ### Kontaktní údaje
     
-| Položka | Údaj |
+|  |  |
 | :--- | :--- |
 | **Jméno** | Jan Fojtík, Jr. |
 | **E-mail** | schranka@fojtikjan.com |
 | **Telefon** | +420 777 310 055 |
 | **Adresa** | Václavské náměstí 1, Praha |
     
-    <br>
+  
     
-    ### Kde mě najdete
+    ### Kde mě najdete ###
     
 <iframe src="https://maps.google.com/maps?q=Václavské%20náměstí%201,%20Praha&t=&z=15&ie=UTF8&iwloc=&output=embed" 
         width="100%" 
@@ -71,7 +71,7 @@ Jsem také **milovník piva**, zejména toho lokálního z mé domoviny na Vala�
   </div>
 
   <div style="flex: 1 1 350px;">
-    ### Napište mi zprávu
+    ### Napište mi zprávu ###
     
 <form action="https://formspree.io/f/mpwkjwrq" method="POST" style="display: flex; flex-direction: column; gap: 10px;">
   <label for="email">Váš e-mail:</label>
