@@ -1,6 +1,25 @@
-# -- Site Configuration --
-baseURL = "https://fojtikjan.com/"
-title = "Jan Fojtík, Jr." 
-languageCode = "cs-cz"
-theme = "congo"
-# ... (Zde následují jen bloky s nastavením [menu], [privacy] atd.)
+# -- Nastavení Menu --
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Úvod"
+    url = "/"
+    weight = 10
+  
+  [[menu.main]]
+    identifier = "aktuality"
+    name = "Aktuality"
+    url = "/posts/" 
+    weight = 20
+
+  [[menu.main]]
+    identifier = "o-mne"
+    name = "O mně"
+    url = "/#o-mne" # Odkazuje na kotvu <div id="o-mne"></div>
+    weight = 30
+
+  [[menu.main]]
+    identifier = "kontakt"
+    name = "Kontakt"
+    url = "/#kontakt" # Odkazuje na kotvu <div id="kontakt"></div>
+    weight = 40

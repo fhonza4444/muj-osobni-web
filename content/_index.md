@@ -11,6 +11,8 @@ layout: "landing"
 
 <div id="o-mne"></div>
 
+<img src="/images/profilovka.jpg" alt="Profilová fotka Jana Fojtíka Jr." style="float: left; margin-right: 20px; margin-bottom: 10px; width: 150px; height: auto; border-radius: 50%;">
+
 ## 🧑‍⚕️ Osobní Cesta a Filozofie
 
 Jmenuji se Jan Fojtík junior, je mi 23 let, pocházím z malebného Valašska a aktuálně žiji v Praze. Jsem student a **nadšenec do medicíny**, což je obor, který mě fascinuje svou složitostí a nekonečnými možnostmi poznání. Baví mě pronikat do tajů lidského těla a mysli, objevovat jejich zákonitosti a chápat, jak fungují. Medicína pro mě není jen studium – je to cesta k **hlubšímu pochopení života** jako takového.
@@ -43,5 +45,9 @@ Jsem také **milovník piva**, zejména toho lokálního z mé domoviny na Vala�
 Tento web je místem, kde mohu sdílet své zájmy a zkušenosti. Pokud máte jakékoli dotazy nebo byste se chtěli podělit o své názory či zkušenosti, neváhejte mě kontaktovat!
 
 S pozdravem,
+
+<div align="left">
+  <img src="/images/podpis.jpeg" alt="Ručně psaný podpis Jana Fojtíka Jr." style="width: 150px; height: auto; margin-top: 5px;">
+</div>
 
 **Jan Fojtík, Jr.**
