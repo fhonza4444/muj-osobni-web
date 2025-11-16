@@ -31,7 +31,7 @@ Pracuji pro společnost **FlixBus**, kde mám možnost spojit svou vášeň pro 
 
 ---
 
-## 📝 Věda, Volný Čas a Kontakt
+## 📝 Věda, Volný Čas a Osobní Zájmy
 
 **Věda je pro mě vášní**, která mě neustále pohání vpřed. Fascinuje mě její schopnost odpovídat na otázky, které si lidstvo klade už po tisíciletí, a otevírat nové obzory poznání.
 
@@ -39,15 +39,59 @@ Ve volném čase rád **píši odborné články**, které mi umožňují sdíle
 
 Jsem také **milovník piva**, zejména toho lokálního z mé domoviny na Valašsku. Oceňuji jeho rozmanité chutě, tradici spojenou s jeho výrobou a jedinečnost každého regionálního pivovaru.
 
+---
+
 <div id="kontakt"></div>
-## Kontakt
+## ✉️ Kontakt
 
-Tento web je místem, kde mohu sdílet své zájmy a zkušenosti. Pokud máte jakékoli dotazy nebo byste se chtěli podělit o své názory či zkušenosti, neváhejte mě kontaktovat!
+<div style="display: flex; flex-wrap: wrap; gap: 40px; margin-top: 20px;">
 
+  <div style="flex: 1 1 300px;">
+    ### Kontaktní údaje
+    
+    | Položka | Údaj |
+    | :--- | :--- |
+    | **Jméno** | Jan Fojtík, Jr. |
+    | **E-mail** | schranka@fojtikjan.com |
+    | **Telefon** | +420 777 310 055 |
+    | **Adresa** | Václavské náměstí 1, Praha |
+    
+    <br>
+    
+    ### Kde mě najdete
+    
+    <iframe src="https://maps.google.com/maps?q=Václavské%20náměstí%201,%20Praha&t=&z=15&ie=UTF8&iwloc=&output=embed" 
+        width="100%" 
+        height="250" 
+        style="border:0; border-radius: 8px;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+  </div>
+
+  <div style="flex: 1 1 350px;">
+    ### Napište mi e-mail
+    
+    <p>Nejjednodušší cesta je odeslat mi e-mail. Kliknutím na tlačítko se otevře Váš výchozí e-mailový klient (např. Outlook nebo Apple Mail) s předvyplněným kontaktem.</p>
+    
+    <a href="mailto:schranka@fojtikjan.com?subject=Dotaz z webu fojtikjan.com" style="text-decoration: none;">
+        <button style="background-color: #38a169; color: white; padding: 10px 15px; border: none; cursor: pointer; border-radius: 4px; margin-top: 10px; width: 100%;">
+            Odeslat e-mail na schranka@fojtikjan.com
+        </button>
+    </a>
+    
+    <p style="margin-top: 15px;">
+        Neváhejte mě kontaktovat s dotazy, názory či nabídkami spolupráce.
+    </p>
+  </div>
+</div>
+
+<br>
 S pozdravem,
-
-**Jan Fojtík, Jr.**
 
 <div align="left">
   <img src="/images/podpis-final.jpeg" alt="Ručně psaný podpis Jana Fojtíka Jr." style="width: 150px; height: auto; margin-top: 5px;">
 </div>
+
+**Jan Fojtík, Jr.**
