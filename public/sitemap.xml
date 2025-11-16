@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>http://localhost:1313/cs/sitemap.xml</loc>
     
-      <lastmod>2025-11-16T01:13:44+01:00</lastmod>
+      <url>
+            <loc>https://fojtikjan.com/</loc>
+            <lastmod>2025-11-16T01:35:00+01:00</lastmod>
+          </url>
     
-  </sitemap>
   
-  <sitemap>
-    <loc>http://localhost:1313/en/sitemap.xml</loc>
     
-  </sitemap>
+      <url>
+            <loc>https://fojtikjan.com/posts/</loc>
+            <lastmod>2025-11-16T01:13:44+01:00</lastmod>
+          </url>
+    
   
-</sitemapindex>
+    
+      <url>
+            <loc>https://fojtikjan.com/posts/prvni-aktualita/</loc>
+            <lastmod>2025-11-16T01:13:44+01:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+</urlset>
