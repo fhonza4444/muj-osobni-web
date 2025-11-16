@@ -18,3 +18,8 @@
   font-weight: 700; /* tučnější */
   border-bottom: 2px solid steelblue; /* s modrým podtržením */
 }
+
+/* Zabarví pozadí záhlaví (navbaru) */
+header {
+  background-color: #38a169;
+}
